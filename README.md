@@ -4,7 +4,7 @@
 
 #### Time Tracking and Finance
 
-- [Deel - Timetracking]()
+- [Deel - Timetracking](https://app.deel.com/)
 
 #### Task and Submission Portal
 
@@ -12,4 +12,5 @@
 
 #### Sepal AI
 
+- [Sepal AI - Expert Hub](https://expert-hub.sepalai.com/)
 - [Sepal AI - Onboarding Checklist]()
