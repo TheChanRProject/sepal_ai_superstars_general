@@ -8,7 +8,7 @@
 
 #### Task and Submission Portal
 
-- [Feather - OpenAI]()
+- [Feather - OpenAI](https://feather.openai.com)
 
 #### Sepal AI
 
